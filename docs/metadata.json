@@ -1,0 +1,486 @@
+{
+  "events": {
+    "0022600005": {
+      "fingerprint": "d8c03ed804efb810b10f0ff971a5454a3b9626d0ea81776d193b80e39c3da0f4",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261021T2200-gsw@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600012": {
+      "fingerprint": "de631b9ea47ea39f8dcb8240b953280cfe21874eacaf4d6a7bdab631deffde8a",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261225T1700-phi@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600023": {
+      "fingerprint": "ce44cf21df15ea01708679655c22e636063f41f054f53a23e4fb6a953a95b1c6",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261030T2200-gsw@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600032": {
+      "fingerprint": "42083558e4db628a39d69813a9a1a2ee74c0cb15fff615f33cfa43fa88db73f1",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261106T2200-por@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600051": {
+      "fingerprint": "e49022fafdaf833bd2f5e0a0d7a371a1a8c4a27c538a495d11873314092f691c",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261120T2200-sac@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600071": {
+      "fingerprint": "d191c24f7834eef0b9f55f7a68539e078424a4d7b051ab49123b46c1ed38cadb",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261127T2130-sas@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600102": {
+      "fingerprint": "efcbc06dd9c4a4775f1ba54e5208b8f5bc316d48891a57933a8cd19a7f174b38",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261023T2200-lac@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600112": {
+      "fingerprint": "f0f1158d11271990dd1b9aa5c0f8b19e224dc0c737280e159e936bb86ad9dca7",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261025T1700-uta@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600131": {
+      "fingerprint": "025d466929c90ce1235b6751a6d35b3a6757a82e3fa13a4b0542ebd0d79b9529",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261027T2300-por@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600143": {
+      "fingerprint": "319372369ed24e33ff9d410065bfceba0508a9defee7d6e5da7e5db099c61006",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261028T2230-lac@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600157": {
+      "fingerprint": "bdb20aa592ca536194de5a58dbc270a1687464c9d092791650393f6fe1bc22fa",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261101T2100-tor@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600172": {
+      "fingerprint": "13dd4ad4f45e16e08ec458eb06172d528d1b037c03879afbbd8ad514e2f6b3f7",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261102T2200-mia@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600185": {
+      "fingerprint": "1322d2f0ec5edf10825652816ba65e22331b8c246de5692f5c3d3c929aacbecd",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261104T2200-sac@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600197": {
+      "fingerprint": "7332d24589c266faae1498d2a099b385d0be1023aa649e5b3e08b128675cf387",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261108T1800-det@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600203": {
+      "fingerprint": "be8b865981ce14f14f0ad376c35cb4ddba928e64a58e9a802062c7a07dd0f756",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261109T1900-atl@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600222": {
+      "fingerprint": "ca56deead6a6d68ad6785c0b58f6ee21f00758786f84e3d44f77f1c7078ad2d3",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261111T2000-mil@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600237": {
+      "fingerprint": "53ccd0f405431b7d340542a98e661c36f15d6b199672e63cfe9fdb199060ee51",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261115T1600-phx@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600256": {
+      "fingerprint": "3d8e57c9ec0fd6494ae63a22f1bf6ec3ee816d76bab08e2dd81fed1d8788e3a5",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261117T2200-cha@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600268": {
+      "fingerprint": "5b3afaa38a0c57cea970d811130b8fba923ecdcf044b04e7820e5d63453d2b43",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261118T2200-uta@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600295": {
+      "fingerprint": "2cc0ccf6215ab23622af22b4a1b30ce9ae7f307f4dcc8357a11c43bb02ee3aab",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261123T2200-uta@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600302": {
+      "fingerprint": "cd163a82acce8dfd1bdb3ad6dcd293314d171ece6e8d2e6c6d7b38d64d7a99dd",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261129T1600-mem@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600315": {
+      "fingerprint": "d57a62a16df8f8a1c65bc485cbeedba39352cde8e124aeb8fff06a7f904f870a",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261130T1930-hou@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600332": {
+      "fingerprint": "7ceb715c70b14784703a647379824c1f86b1c75b5257b4835a46dfe32851089b",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261202T2000-nop@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600365": {
+      "fingerprint": "6c3ecfc7451c3e916a77d2354e82ba884e27fe646bdbecbe50aff57f449de813",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261214T2200-nop@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600380": {
+      "fingerprint": "ce15bb8d71caf184091bc205c1640c8fa557861c238e028813de7f7f855bd564",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261216T2130-min@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600393": {
+      "fingerprint": "2c0621d80bc7bb23d1d8b0022ce9c3a76902f08300684892a90b148c5c5b3c97",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261218T2000-min@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600399": {
+      "fingerprint": "243c946178b370c7db7877e457ae38e1fb8d6f0183ee221e76159decf322c88d",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261219T2100-den@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600418": {
+      "fingerprint": "6c6f4b06019a5ca465dc8a9d32993d0fb60a018f7683b9bfaa78dfa05d127576",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261221T2200-ind@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600435": {
+      "fingerprint": "fce8728c9bfe6acc700270de255a66d60898410f4ae5b538dc22cbab3b92d8a8",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261223T2200-den@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600457": {
+      "fingerprint": "e870e381b017ebea4ad3895afd869463b0b971fe59bb8ee1d0d510eb416c24d6",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261227T2100-mem@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600470": {
+      "fingerprint": "248b4de7e3caa4e5f92da4724e12e2011291f8468e841d233b744dcee7d8c46f",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261229T2230-hou@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600483": {
+      "fingerprint": "249b89d248d4969ddf17fde6808b473f5c289e1b966b9fe3468da4877d1e76d1",
+      "sequence": 0,
+      "uid": "lal-2026-27-20261231T2000-nop@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600497": {
+      "fingerprint": "edf8c7a7d30440a97e28156b473959156f9526940a428fff48ea7431a5625df9",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270102T2000-chi@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600505": {
+      "fingerprint": "e5a28b0e9a999bf07d8b17e0bfa4acaf3d9f4ee3273fae4a29d82a8727431788",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270103T1900-tor@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600519": {
+      "fingerprint": "1d83491ec26863978f657a996fcf93c7dee01be483bb163b84101b2d0b24f4ac",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270105T1900-was@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600540": {
+      "fingerprint": "92f0034554c2ba1a1bef63d42ee6efefbb80bda3949d32271011e03bba8fc3b6",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270107T2200-bos@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600548": {
+      "fingerprint": "1fb158c00b0f8edf5d6ebef76b56ad035f05b07756aedc6d4b1f42e695e2a69f",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270108T2200-det@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600569": {
+      "fingerprint": "98c14eccdb8cddb4c702581a9ec4d824ebab1f4aef27322af5673d66554de1b2",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270111T2200-lac@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600584": {
+      "fingerprint": "823a724064a1d78020037700c9370c349413d8f265295d5784309f306c67a736",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270113T2200-por@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600591": {
+      "fingerprint": "bb255a6fe7044e6a0b8d1288bda8c8ced249b19f116967dd23ed8c1b33908761",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270114T2200-orl@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600613": {
+      "fingerprint": "0ccc0562a5e5e15c57042001fd11ed10edd3becaea842cad1d15b9a7858bc5b0",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270117T2100-mil@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600623": {
+      "fingerprint": "d058c0e062b0e9570c5da0a86c4171e85540fc9dc0f030471ab838874352da5b",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270119T2200-sac@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600637": {
+      "fingerprint": "3b398701786568790ffaae0f5a347f10acd1c9305f3ea8f0d5bb3b5560a3074f",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270121T2200-gsw@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600647": {
+      "fingerprint": "0870786dc22c9c5a80fa93abba429a915ce9db59518ec01d60b27ccf2457d11d",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270122T2200-sac@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600657": {
+      "fingerprint": "1c3e98d543de04446c7d2b233e89dba896a85709f2959fbfe31f08d9daedeeae",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270124T1600-was@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600676": {
+      "fingerprint": "7e0bddd1a169eb0348f4c78034a3e4487c0b963271116bfc7afcf2e867f30bc5",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270126T2300-okc@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600686": {
+      "fingerprint": "6fbc224d1820656f22b80a2f3cfa523ae7caedb4124e957325e13a829f4ca029",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270128T1900-ind@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600706": {
+      "fingerprint": "c200b26b79dadcfc6c4160f664d76445b675e64d46b698d83d8b3971cf89c8af",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270130T2030-nyk@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600713": {
+      "fingerprint": "addd4ed6241733b2ac12f887368c433eabe94c09522b94d7ec51fcd08e28b49f",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270131T1900-cha@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600726": {
+      "fingerprint": "d98c19cb97f34f066496a0b5c93d8a44425b5c247b1221f0f06adbb5552bdeae",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270202T2000-bos@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600738": {
+      "fingerprint": "b35861a40817d116432b1971c6932b4460b2e583dd6b28782208dcc59a9d13c5",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270204T1930-bkn@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600760": {
+      "fingerprint": "9d13ac78376f7f0fd4699b20a1f68139bc8eca03a569989e9b4c1ba6c8b905a4",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270206T2030-sas@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600776": {
+      "fingerprint": "8e091aafe06d469166d79ce0aec59b5685e7451c048dfdb87c4e91ebadfc0da1",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270208T2130-phx@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600793": {
+      "fingerprint": "4c6b6bd2a35cfb7b97c77dc0b32082426227bd539703c53b11db645ce77e72ab",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270210T2200-lac@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600808": {
+      "fingerprint": "c325eabdb19afccaf381bd69be7f914693c7c549b1f9f9c398e7531de2770c90",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270212T2230-den@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600829": {
+      "fingerprint": "1d08b2910b72dceb7e738c37a74a7357836ac1d77c8009c029450c51417f44b2",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270216T2200-chi@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600847": {
+      "fingerprint": "c168fe04d3cbe05bc68da47d520a34d1216cc306cdfaf115beb589303d9fdc79",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270218T2200-hou@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600864": {
+      "fingerprint": "d1e52e840675cd01ca9a51680738866407a5e41b9946297b6d91355c8b9db2e0",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270226T2200-den@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600873": {
+      "fingerprint": "caa40bf157416e8e254ccce9f1e41b9c32b9ce897fa1193ad9d7fdcf034c619a",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270228T1530-dal@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600888": {
+      "fingerprint": "f9b281bfd0cb45c45577cea77dcf1904ea3b175b61e10109818aaccd8f6b8aee",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270302T1900-orl@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600905": {
+      "fingerprint": "b631fdfc868d2b2cd711737c452baf9510ab70202f2f857924544c78fafab210",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270304T1900-phi@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600922": {
+      "fingerprint": "42af0fc7778f690e2aa3de8e75a9d893562d6e785457c76cdd81bbc123f45521",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270306T2030-okc@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600929": {
+      "fingerprint": "4366c252aeb3495e518e3e90def66fd38ad2c9307172d78b83c438a4bd356884",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270307T2230-bkn@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600960": {
+      "fingerprint": "5bc8119c480d4315499f12870a84c180491f72cee5b08cb28144fba7982dad6e",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270311T2200-nyk@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600967": {
+      "fingerprint": "38ff4b195cce69644146b147c1f76f75610dd8cfefd32ebaed311aca5469d43b",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270312T2200-cle@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600982": {
+      "fingerprint": "9480b686fd5208e539c0b6f26ae78ab015547271f2bc37d44e66213028d602dc",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270314T2200-gsw@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022600996": {
+      "fingerprint": "32c9c05ce48a359c3e296eda6c611d2a02bc384f1d7d962ea85675df562b7cc2",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270316T2200-por@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601004": {
+      "fingerprint": "5deeebe7f9583b872cc9e2afcc7d76a156706839874caa6a08db9a95030d98ac",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270317T2200-phx@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601019": {
+      "fingerprint": "733e4701299bbf48984c0253115e8bf1e16d7be370694401b016dffce33a800a",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270319T2200-atl@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601034": {
+      "fingerprint": "0e2464b75e07b66c6db3fa8bcfd46d3fe3ed268953feb5d9cf322c046d77a246",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270321T2200-dal@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601045": {
+      "fingerprint": "b1aefbae300c71174ca00a64beb2bafb0c3354618ca5e8e491519c0d440b81d1",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270323T2000-mia@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601060": {
+      "fingerprint": "42d6f5875770aed7a07e2c4eeb9d797d2cadb1927f0eb5cb26237ecdcb4f5ce2",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270325T1900-cle@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601082": {
+      "fingerprint": "bb47a8cebb481958225f1fc53afee068f343e910cc07d8a3623a448305afd050",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270328T1500-hou@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601100": {
+      "fingerprint": "e5e8a63d5dc8ca93b5f9e0bafe01b1905597f4b9d00eefa3f21d94930e8623bf",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270330T2000-mem@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601116": {
+      "fingerprint": "c2ff7179ec91d5798d2ee553ff3a2bb9f509097930054ceece018b1f26b7bde9",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270401T2130-okc@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601143": {
+      "fingerprint": "8f5438b9356a86e53917cd60c34af6021537278c714929c3d18b91b63c5e6d2b",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270404T2200-sas@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601155": {
+      "fingerprint": "a570e4a22a38e6b0e61a41ab32cf6e6828d5e8e716c6bd3be6cae6d69e95489a",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270406T2200-dal@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601165": {
+      "fingerprint": "e2a01cd1199a2456db7162f06dc42d7194583263d0f479c220700eb1315d58e2",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270407T2200-min@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601183": {
+      "fingerprint": "9bfe2911c3a2aba9deecbe18a9ded46bcf73e452abeb3e2ff3f1f6eb5c8c29fa",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270409T2200-min@user-calendar.example",
+      "updated": "20261028T184656Z"
+    },
+    "0022601200": {
+      "fingerprint": "45f999d867779a8a96a92f205eea35cdfcbd94ec236306634c3b91fd048f052a",
+      "sequence": 0,
+      "uid": "lal-2026-27-20270411T2030-phx@user-calendar.example",
+      "updated": "20261028T184656Z"
+    }
+  },
+  "schema": 1,
+  "season": "2026-27"
+}
